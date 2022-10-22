@@ -422,7 +422,7 @@ The participants get a chance to contribute to numerous projects under the guida
 	    Registration & Contribution Start  
 ***Hacktoberfest*** is a global open source cotribution fest. Whether it's your first time or your ninth, it's almost time to hack out four pristine PULL/MERGE requests and complete your mission for open source. Hacktoberfest isn't all about code. Anyone who writes, designs, tests, mentors, or organizes offers much need support for the open-source projects all over the world.
 
-### 2- Google Cloud Next [Link](https://cloud.withgoogle.com/next)
+### 2-  [Link](https://cloud.withgoogle.com/next)
 	    Registration Closed  
 ***Google Cloud Next*** is a global conference that brings together thousands of the brightest and most innovative thinkers in the world. Whether you are a CEO, a developer, or just someone passionate about learning solutions and ideas for the next generation of the cloud, Next provides thousands of demonstrations, boot camps, keynotes, conversations, and breakouts to choose from.
 
